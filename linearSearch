@@ -5,8 +5,8 @@ function linearSearch(list,target){
     if (list[i]===target){
         return i;
     }
-    return null ;
   }
+  return null ;
   //this loop iterates in the list and check if its equal the target if its equal it returns the index of the target.
 }
 
